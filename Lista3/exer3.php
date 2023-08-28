@@ -8,7 +8,7 @@
   </head>
   <body class="container">
     <h1>Exercício 3</h1>
-    <form>
+    <form action="exer3_resp.php" method="POST">
         <div class="row">
             <?php for($i=1;$i<=10;$i++) { ?>
                 <div class="col">
