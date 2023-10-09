@@ -1,8 +1,0 @@
-<html>
-    <head>
-        <title>Página Teste</title>
-    </head>
-    <body>
-        <p> Esta é uma página de teste! </p>
-    </body>
-</html>
